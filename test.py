@@ -3,3 +3,5 @@ if status>=18 :
     print("you are adult")
 else:
     print("you are children")
+
+print("for adult is applicable for vote")
